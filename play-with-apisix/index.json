@@ -2,19 +2,19 @@
   "title": "Play with APISIX",
   "description": "play with APISIX",
   "difficulty": "Beginner",
-  "time": "1 hours",
+  "time": "10 minutes",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Step 1: Install Apache APISIX",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Step 2: Create a Route",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Step 3: Verification",
         "text": "step3.md"
       }
     ],
